@@ -1,4 +1,4 @@
-# Repo Oracle — MCP Hackathon Project
+# Repo Oracle - MCP Hackathon Project
 
 **Repo Oracle** is an **MCP (Model Context Protocol)** server built for the **Cursor Hackathon**.  
 It acts as an intelligent GitHub assistant that lets you query any public repository directly from **Cursor Chat** — list issues, summarize pull requests, search code, and surface TODOs — all without leaving your editor.
@@ -87,11 +87,11 @@ Each tool returns structured JSON data directly inside Cursor Chat.
 
 ##  Team
 
-**Repo Oracle** was created during the **Cursor MCP Hackathon — Denver 2025** by:  
+**Repo Oracle** was created during the **Cursor MCP Hackathon - Denver 2025** by:  
 -  **Pranit Katwe**  
 -  **Ratnakshi Gore**  
 -  **Taahaa Dawe**
 
 ---
 
-> “Bringing GitHub to Cursor Chat — one repo at a time.” ⚡
+- > “Bringing GitHub to Cursor Chat — one repo at a time.” ⚡
