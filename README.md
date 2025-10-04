@@ -60,11 +60,6 @@ Add this configuration inside your **`.cursor/mcp.json`** file:
 }
 ```
 
->  **Security Note:**  
-> Never commit your GitHub token to the repository.  
-> You can store it as a system environment variable and reference it like:  
-> `"GITHUB_TOKEN": "${GITHUB_TOKEN}"`
-
 If you’re on **GitHub Enterprise**, you can also set:
 
 ```bash
