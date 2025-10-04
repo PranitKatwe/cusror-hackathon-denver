@@ -1,7 +1,7 @@
 # Repo Oracle - MCP Hackathon Project
 
 **Repo Oracle** is an **MCP (Model Context Protocol)** server built for the **Cursor Hackathon**.  
-It acts as an intelligent GitHub assistant that lets you query any public repository directly from **Cursor Chat** — list issues, summarize pull requests, search code, and surface TODOs — all without leaving your editor.
+It acts as an intelligent GitHub assistant that lets you query any public repository directly from **Cursor Chat** which list issues, summarize pull requests, search code, and surface TODOs all without leaving your editor.
 
 ---
 
@@ -11,7 +11,7 @@ It acts as an intelligent GitHub assistant that lets you query any public reposi
 |------|--------------|
 | `connect_repo` | Set a default `owner/repo` for the session |
 | `list_issues` | Fetch and filter issues (state, labels, assignee) |
-| `summarize_pr` | Summarize pull requests — changes, risks, next steps |
+| `summarize_pr` | Summarize pull requests - changes, risks, next steps |
 | `search` | Search issues, PRs, or code via the GitHub Search API |
 | `find_todos` | Scan text files for TODO/FIXME/HACK/NOTE comments |
 | `health_check` | Check server health and rate-limit status |
@@ -23,8 +23,8 @@ All endpoints are powered by the **GitHub REST API** and wrapped in a lightweigh
 ## Tech Stack
 
 - **Python 3.11+**
-- [`mcp`](https://pypi.org/project/mcp/) — Model Context Protocol server
-- [`requests`](https://pypi.org/project/requests/) — HTTP client for GitHub API
+- [`mcp`](https://pypi.org/project/mcp/) - Model Context Protocol server
+- [`requests`](https://pypi.org/project/requests/) - HTTP client for GitHub API
 - **LRU Cache** for lightweight response caching  
 - **Cursor IDE** as the client runtime
 
