@@ -94,4 +94,4 @@ Each tool returns structured JSON data directly inside Cursor Chat.
 
 ---
 
-- > “Bringing GitHub to Cursor Chat — one repo at a time.” ⚡
+> “Bringing GitHub to Cursor Chat — one repo at a time.” ⚡
