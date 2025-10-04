@@ -50,7 +50,7 @@ Add this configuration inside your **`.cursor/mcp.json`** file:
     "repo-oracle": {
       "command": "path to your python.exe",
       "args": [
-        "D:\\Cursor\\cursor-hackathon-denver\\repo-oracle\\server.py"
+        "path to your server.py"
       ],
       "env": {
         "GITHUB_TOKEN": "YOUR_GITHUB_TOKEN"
