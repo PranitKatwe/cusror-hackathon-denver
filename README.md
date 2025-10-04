@@ -1,1 +1,0 @@
-# cusror-hackathon-denver
